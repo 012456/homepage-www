@@ -1,0 +1,29 @@
+body {
+  font-family: Georgia, serif;
+  font-size: 20px;
+  color: #111111;
+  background-color: #eeeeee;
+  margin: auto;
+  padding: 0em 1em 2em 1em;
+  max-width: 30em;
+}
+a {
+  color: #004caa;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #eeeeee;
+    background-color: #111111;
+  }
+  a {
+    color: #d2738a;
+  }
+  img {
+    filter: invert(1);
+  }
+}
