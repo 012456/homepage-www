@@ -1,14 +1,10 @@
 ![the joxter from "moominpappa's memoirs"](the-joxter.png)
 
-## webpresence of slime
+## homepage of slime
 
 ***now?***  
-unknowing,
-wandering the woods,
-growing understandings,
-untangling snafus,
-shepherding systems, &
-typing like hell
+unknowing, wandering the woods, growing understandings,
+untangling snafus, shepherding systems, & typing like hell
 
 ***mail?***  
-address non-spam plaintext mail to slime at this domain
+address your email queries to this subdomain at this domain
